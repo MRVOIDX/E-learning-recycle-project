@@ -45,9 +45,6 @@ It helps raise awareness about sustainability while keeping learning engaging an
   <img src="./screenshots/dashboard.png" alt="Dashboard Screenshot" width="70%"/>
 </p>
 
-> 🖼️ *You can replace these images with your own screenshots.*  
-> Simply add them to a `/screenshots` folder and adjust the paths above.
-
 ---
 
 ## 🛠️ Tech Stack
